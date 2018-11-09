@@ -23,10 +23,10 @@ C++11 syntax notes
 
 (Reference: http://www.cplusplus.com/doc/tutorial/)
 
-- basics: boilerplate, variable types, for loops, and conditional statements
-- arrays: numerical and character arrays
-- pointers: address-of, dereferencing, connection with arrays
-- structures: member and array object creation
+- 1-basics: boilerplate, variable types, for loops, and conditional statements
+- 2-arrays: numerical and character arrays
+- 3-pointers: address-of, dereferencing, connection with arrays
+- 4-structures: member and array object creation
 
 ## Tips
 
