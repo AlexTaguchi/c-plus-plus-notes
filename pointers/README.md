@@ -18,8 +18,6 @@ Value of var: 1
 Address of var: 0x7ffeeed2d16c
 ```
 
----
-
 ## Creating a pointer to the variable address
 ```c++
 // Example of copying value to another variable
@@ -40,8 +38,6 @@ Pointer to var: 0x7ffeeed2d16c
 Dereferenced pointer to var: 1
 ```
 
----
-
 ## Changing the value of the variable with the pointer
 ```c++
 // Change value of var with pointer
@@ -56,8 +52,6 @@ OUTPUT:
 ```bash
 New value of var: 2
 ```
-
----
 
 ## Relationship between array types and pointers
 
@@ -81,8 +75,6 @@ Pointer to array: 0x7ffeeed2d180
 Indexed array: 5
 Dereferenced array: 5
 ```
-
----
 
 ## Null pointers
 ```c++

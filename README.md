@@ -4,8 +4,6 @@ C++11 syntax notes
 
 ## Installation
 
----
-
 - Download and install Visual Studio Code (VS Code): https://code.visualstudio.com/download
 - Install the following VS Code extensions:
   - C/C++
@@ -23,8 +21,6 @@ C++11 syntax notes
 
 ## Contents
 
----
-
 (Reference: http://www.cplusplus.com/doc/tutorial/)
 
 - basics: boilerplate, variable types, for loops, and conditional statements
@@ -33,7 +29,5 @@ C++11 syntax notes
 - structures: member and array object creation
 
 ## Tips
-
----
 
 - Change all instances of highlighted: Shift + Command + L
