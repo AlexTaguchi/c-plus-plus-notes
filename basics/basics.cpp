@@ -35,7 +35,7 @@ int main(int argc, char const *argv[])
     }
     cout << '\n';
 
-    // While loop
+    // While loop construction
     int n = 10;
     while (n > 0) {
         cout << n << ", ";
@@ -43,7 +43,7 @@ int main(int argc, char const *argv[])
     }
     cout << '\n';
 
-    // If statment
+    // If statment construction
     if (b > 1) {
         cout << "big";
     } else if (b > 0) {

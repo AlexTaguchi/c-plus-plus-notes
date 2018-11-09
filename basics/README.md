@@ -75,7 +75,7 @@ OUTPUT:
 ## While loop
 
 ```c++
-// While loop
+// While loop construction
 int n = 10;
 while (n > 0) {
     cout << n << ", ";
@@ -93,7 +93,7 @@ OUTPUT:
 ## If statement
 
 ```c++
-// If statment
+// If statment construction
 if (b > 1) {
     cout << "big";
 } else if (b > 0) {
