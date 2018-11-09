@@ -1,7 +1,9 @@
 # c-plus-plus
+
 C++11 syntax notes
 
-Installation
+## Installation
+
 ---
 
 - Download and install Visual Studio Code (VS Code): https://code.visualstudio.com/download
@@ -19,12 +21,19 @@ Installation
 }
 ```
 
-Contents
+## Contents
+
 ---
 
-(http://www.cplusplus.com/doc/tutorial/)
+(Reference: http://www.cplusplus.com/doc/tutorial/)
 
 - basics: boilerplate, variable types, for loops, and conditional statements
 - arrays: numerical and character arrays
 - pointers: address-of, dereferencing, connection with arrays
-- structures: explicit and array object creation
+- structures: member and array object creation
+
+## Tips
+
+---
+
+- Change all instances of highlighted: Shift + Command + L
