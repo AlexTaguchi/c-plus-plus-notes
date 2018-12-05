@@ -1,4 +1,4 @@
-# c-plus-plus
+# c-plus-plus-notes
 
 C++11 syntax notes
 
